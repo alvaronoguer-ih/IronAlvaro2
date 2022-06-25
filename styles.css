@@ -1,0 +1,15 @@
+.info {
+    background-color:coral;
+    padding-top: 3px;
+    padding-left: 4px;
+}
+
+p.intro {
+    color: burlywood;
+
+}
+
+.info h1 {
+   color: white;
+}
+
